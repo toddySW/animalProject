@@ -8,4 +8,5 @@ Lion.prototype.sleep = function() {
 	console.log('zzzz');
 };
 
+
 module.exports = Lion;
