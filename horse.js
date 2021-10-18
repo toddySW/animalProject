@@ -1,5 +1,6 @@
-function Horse() {
-	// body...
+function horse() {
+	
 }
 
-module.exports = Horse;
+
+module.exports = horse;
