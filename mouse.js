@@ -3,7 +3,7 @@ function Mouse (name) {
     this.name = name;
 }
 
-Mouse.prototype.sleep = function(){
+Mouse.prototype.jump = function(){
 	console.log('zzzzzz);
 }
 
